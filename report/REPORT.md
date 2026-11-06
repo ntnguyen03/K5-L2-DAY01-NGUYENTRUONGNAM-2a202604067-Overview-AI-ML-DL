@@ -98,7 +98,7 @@ Lab hôm nay chỉ **xem prediction**. Chuỗi dưới đây là vòng đời pr
 ## 5. An toàn dữ liệu
 
 1. Quy tắc bảo vệ dữ liệu của bạn cho bài lab này là gì? (viết 1 câu)
-    - Chỉ sử dụng dữ liệu được cung cấp cho mục đích thực hiện bài Lab, không tự ý sao chép, chia sẻ, tải lên nền tảng bên ngoài hoặc tiết lộ thông tin khi chưa được cho phép
+    - Chỉ dùng ba ảnh COCO công khai có sẵn — không tải ảnh cá nhân hay dữ liệu nội bộ, không huấn luyện hoặc tinh chỉnh mô hình trong bài này. Không tự đổi checkpoint, threshold hoặc mã nguồn trừ khi GV cho phép
 2. Nếu gặp ảnh hoặc dữ liệu không đúng phạm vi, bạn sẽ dừng và báo cho ai?
     - Tôi sẽ dừng xử lý, không tự ý chỉnh sửa hoặc chia sẻ dữ liệu, sau đó báo cáo trực tiếp cho Lab Coach hoặc người phụ trách dự án để được hướng dẫn xử lý
 
